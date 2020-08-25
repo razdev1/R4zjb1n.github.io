@@ -1,0 +1,13 @@
+Package: com.mc.
+Priority: optional
+Name: R4zjb1n
+Version: 1.0
+Section: 
+Architecture: iphoneos-arm
+Depends:
+Pre-Depends: dpkg
+Provides:
+Maintainer: Apollo <34170230+MR4zjb1n@github.R4zjb1n.github.com> 
+Homepage: https://r4zjb1n.github.io/
+Tag: R4z
+Description: Athena Project | Compiled for ARM64.
