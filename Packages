@@ -33,4 +33,13 @@ MD5sum: cf80ce5175306da0b8b37cf2632ddcd7
 SHA1: b22acbaa8b4a37a93e600334952f17fa99e4bc31
 SHA256: 205e70b5ed9cd70fb889660578d4c9dfb702dc84e8ac37596a801f447b9d321f.ChargeAnimations
 
+package: com.r4zjb1n.localiapstore
+name: localiapstore 
+version: 1.4-4
+architecture: iphoneos-arm
+description: pwns in-app purchases on ios 7 and 8. compatible with armv8 (64 bit). enable in settings. press 'dismiss' on popup!
+depiction: https://r4zjb1n.github.io/pack/localiapstore
+author: razjbin
+section: tweaks
+depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 
