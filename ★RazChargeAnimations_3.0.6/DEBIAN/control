@@ -1,0 +1,15 @@
+Package: com.R4zjb1n.ChargeAnimations
+Name: RazChargeAnimations
+Version: 3.0.6
+Description: Beautiful animated notifications for when plugging in your device!
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Priority: optional
+Architecture: iphoneos-arm
+Author: R4zjb1n
+dev: R4zjb1n
+Homepage: https:/r4zjb1n.github.io/
+Depiction: depictions/?p=com.R4zjb1n.ChargeAnimations
+Maintainer: R4zjb1n<chinagordo123@aol.com>
+Icon: 
+
