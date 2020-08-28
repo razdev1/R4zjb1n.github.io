@@ -43,3 +43,22 @@ author: razjbin
 section: tweaks
 depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 
+Name: ★Shadows★
+Package: com.R4zjb1n.shadows
+Priority: optional
+Pre-Depends: firmware (>= 7), firmware (<= 13.5), preferenceloader
+Conflicts:  com.macciti.veexillum, com.repo.xarolod.com.veexillum, com.hackyouriphone.veexillum, repo.biteyourapple.net.veexillum, vn.gsm.veexillum
+Version: 3.3.5
+MD5: c02d557e4454e84952c1fa7f166eef45
+Architecture: iphoneos-arm
+Description: An Amazing Dark Icon Theme With Over 500+ Icons & Counting!
+Homepage: http://R4zjb1in.github.io/depiction.php?file= R4zjb1nthemeDp
+Depiction: http://http://R4zjb1in.github.io/ depiction.php?file=shadowsthemeDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: WolfTonix <Wolftonix@yahoo.com>
+Section: Themes
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 22137
+dev: wolftonix
+Icon: file:///Library/PreferenceBundles/Shadows.bundle/images/Shadows@2x.png
