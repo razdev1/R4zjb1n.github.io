@@ -33,7 +33,7 @@ MD5sum: cf80ce5175306da0b8b37cf2632ddcd7
 SHA1: b22acbaa8b4a37a93e600334952f17fa99e4bc31
 SHA256: 205e70b5ed9cd70fb889660578d4c9dfb702dc84e8ac37596a801f447b9d321f.ChargeAnimations
 
-package: com.r4zjb1n.localiapstore
+package: com.r4zjb1nlocaliapstore.package
 name: localiapstore 
 version: 1.4-4
 MD5:c0fdcf2869d44fa70ddc6ca855b2e78c
@@ -47,7 +47,7 @@ section: tweaks
 depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 
 Name: ★Shadows★
-Package: com.R4zjb1n.shadows
+Package: com.R4zshadows.package
 Priority: optional
 Pre-Depends: firmware (>= 7), firmware (<= 13.5), preferenceloader
 Conflicts:  com.macciti.veexillum, com.repo.xarolod.com.veexillum, com.hackyouriphone.veexillum, repo.biteyourapple.net.veexillum, vn.gsm.veexillum
