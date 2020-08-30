@@ -4,5 +4,6 @@ Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
+maintainer: chinagordo123@aol.com
 Components: main
 Description: Cydia Tweak
