@@ -1,4 +1,4 @@
-ackage: com.R4zjb1n.oldpackage
+Packages: com.R4zjb1n.oldpackage
 Name: Old Package
 Architecture: iphoneos-arm
 Depends: firmware (<7.0)
